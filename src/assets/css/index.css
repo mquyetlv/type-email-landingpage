@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import './_variable.css';
+@import './_common.css';
+
+html {
+  font-family: 'Sora', sans-serif;
+}

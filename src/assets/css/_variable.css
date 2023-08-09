@@ -1,0 +1,7 @@
+:root {
+  --primary-color: #00BD82;
+  --primary-bg-color: #1E1E1E;
+  --second-bg-color: #EFE7D7;
+  --third-bg-color: #E2F471;
+  --linear-gradient: linear-gradient(142deg, #E6FF4B 0%, #00BD82 100%)
+}

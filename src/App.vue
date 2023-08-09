@@ -1,11 +1,9 @@
 <template>
-  <h1>App VueJS Working</h1>
+  <HeaderComponet />
+  <FooterComponent />
 </template>
 
-<script>
-export default {
-  name: "App",
-};
+<script setup>
+  import HeaderComponet from './layouts/HeaderComponent.vue';
+  import FooterComponent from './layouts/FooterComponent.vue';
 </script>
-
-<style></style>
