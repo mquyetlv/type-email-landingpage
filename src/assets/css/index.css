@@ -7,3 +7,7 @@
 html {
   font-family: 'Sora', sans-serif;
 }
+
+.container-layout {
+  max-width: 1120px !important;
+}
