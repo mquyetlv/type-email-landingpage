@@ -45,3 +45,7 @@
 .bg-third-color {
   background-color: var(--third-bg-color);
 }
+
+.bg-fourth-color {
+  background-color: var(--fourth-bg-color);
+}
