@@ -89,6 +89,8 @@
             </div>
             <h1 class="mb-4 text-[20px] font-[600]">{{ item.header }}</h1>
             <p>{{ item.content }}</p>
+
+            
           </div>
         </template>
       </div>
